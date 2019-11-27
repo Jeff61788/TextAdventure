@@ -1,0 +1,11 @@
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure.deps.json
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure.runtimeconfig.json
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure.runtimeconfig.dev.json
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure.dll
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp3.0/TextAdventure.pdb
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.0/TextAdventure.csprojAssemblyReference.cache
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.0/TextAdventure.AssemblyInfoInputs.cache
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.0/TextAdventure.AssemblyInfo.cs
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.0/TextAdventure.dll
+/Users/Jaycock/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp3.0/TextAdventure.pdb
